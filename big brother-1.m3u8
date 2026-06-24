@@ -1,19 +1,159 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS AR
-http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69547.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS 2 AR
-http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69549.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS CH
-http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69552.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS EC
-http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69557.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QDKfDMG/ds.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS PLUS EC
-http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69559.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS CO
-http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69567.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS 2 CO
-http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69568.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS URU
-http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69570.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV Sports Per
-http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/151274.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",14:00 ▫ World Cup ▫ Suiza vs. Canadá ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990648.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",14:00 ▫ World Cup ▫ Suiza vs. Canadá ▫ HD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990649.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",14:00 ▫ World Cup ▫ Suiza vs. Canadá ▫ SD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990650.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",14:00 ▫ World Cup ▫ Suiza vs. Canadá ▫ SD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990651.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",14:00 ▫ World Cup ▫ Bosnia y Herzegovina vs. Catar ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990652.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",14:00 ▫ World Cup ▫ Bosnia y Herzegovina vs. Catar ▫ HD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990653.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",14:00 ▫ World Cup ▫ Bosnia y Herzegovina vs. Catar ▫ SD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990654.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",14:00 ▫ World Cup ▫ Bosnia y Herzegovina vs. Catar ▫ SD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990655.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:00 ▫ World Cup ▫ Marruecos vs. Haití ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990656.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:00 ▫ World Cup ▫ Marruecos vs. Haití ▫ HD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990657.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:00 ▫ World Cup ▫ Marruecos vs. Haití ▫ SD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990658.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:00 ▫ World Cup ▫ Marruecos vs. Haití ▫ SD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990659.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:00 ▫ World Cup ▫ Escocia vs. Brasil ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990660.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:00 ▫ World Cup ▫ Escocia vs. Brasil ▫ HD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990661.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:00 ▫ World Cup ▫ Escocia vs. Brasil ▫ SD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990662.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:00 ▫ World Cup ▫ Escocia vs. Brasil ▫ SD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990663.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:00 ▫ World Cup ▫ Sudáfrica vs. Corea del Sur ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990664.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:00 ▫ World Cup ▫ Sudáfrica vs. Corea del Sur ▫ HD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990665.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:00 ▫ World Cup ▫ Sudáfrica vs. Corea del Sur ▫ SD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990666.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:00 ▫ World Cup ▫ Sudáfrica vs. Corea del Sur ▫ SD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990667.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:00 ▫ World Cup ▫ República Checa vs. México ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990668.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:00 ▫ World Cup ▫ República Checa vs. México ▫ HD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990669.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:00 ▫ World Cup ▫ República Checa vs. México ▫ SD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990670.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:00 ▫ World Cup ▫ República Checa vs. México ▫ SD ▫▫
+http://liontv.es:8080/live/cramirez/cramirez/1990671.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",WORLD CUP 4K (FRANCE)
+http://liontv.es:8080/live/cramirez/cramirez/1990672.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK1x5H4L/file-00000000c6cc71fda2bdddf6437a35be.png" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",WORLD CUP 4K (ENGLISH)
+http://liontv.es:8080/live/cramirez/cramirez/1990673.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",18:30 ▫ Copa Chile ▫ Deportes Concepción vs. Huachipato ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990674.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",18:30 ▫ Copa Chile ▫ Unión La Calera vs. Universidad Chile ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990675.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",18:00 ▫ USL League One ▫ Portland Hearts of Pine vs. Richmond Kickers ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990676.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",18:00 ▫ USL Championship ▫ Miami FC vs. Orange County SC ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990677.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",18:00 ▫ USL Championship ▫ Charleston Battery vs. Loudoun United FC ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990678.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",18:30 ▫ USL Cup ▫ Charlotte Independence vs. Greenville Triumph SC ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990679.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",19:00 ▫ USL Championship ▫ Colorado Springs Switchbacks FC vs. San Antonio FC ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990680.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",19:30 ▫ USL League One ▫ Corpus Christi FC vs. AV Alta FC ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990681.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:00 ▫ USL League One ▫ Spokane Velocity FC vs. Westchester SC ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990682.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",11:10 ▫ MLB ▫ Texas Rangers vs. Miami Marlins ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990683.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",12:10 ▫ MLB ▫ Chicago Cubs vs. New York Mets ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990684.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",13:10 ▫ MLB ▫ Cleveland Guardians vs. Chicago White Sox ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990685.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",14:10 ▫ MLB ▫ Boston Red Sox vs. Colorado Rockies ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990686.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",15:07 ▫ MLB ▫ Baltimore Orioles vs. Los Angeles Angels ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990687.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:40 ▫ MLB ▫ Seattle Mariners vs. Pittsburgh Pirates ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990688.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:40 ▫ MLB ▫ Kansas City Royals vs. Tampa Bay Rays ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990689.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:40 ▫ MLB ▫ New York Yankees vs. Detroit Tigers ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990690.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:45 ▫ MLB ▫ Philadelphia Phillies vs. Washington Nationals ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990691.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",18:07 ▫ MLB ▫ Houston Astros vs. Toronto Blue Jays ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990692.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",18:10 ▫ MLB ▫ Milwaukee Brewers vs. Cincinnati Reds ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990693.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",18:40 ▫ MLB ▫ Los Angeles Dodgers vs. Minnesota Twins ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990694.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",18:45 ▫ MLB ▫ Arizona Diamondbacks vs. St. Louis Cardinals ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990695.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",19:40 ▫ MLB ▫ Atlanta Braves vs. San Diego Padres ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990696.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:45 ▫ MLB ▫ Athletics vs. San Francisco Giants ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990697.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",17:00 ▫ LMB ▫ Pericos de Puebla vs. Guerreros de Oaxaca ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990698.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:00 ▫ LMB ▫ Diablos Rojos del México vs. Piratas de Campeche ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990699.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:00 ▫ LMB ▫ Toros de Tijuana vs. Dorados de Chihuahua ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990700.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:30 ▫ LMB ▫ Sultanes de Monterrey vs. Rieleros de Aguascalientes ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990701.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:30 ▫ LMB ▫ El Águila de Veracruz vs. Bravos de León ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990702.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",20:45 ▫ LMB ▫ Caliente de Durango vs. Acereros de Monclova ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990703.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",06:00 ▫ Men's VNL 2026 ▫ China vs. Turquía ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990704.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",06:00 ▫ Men's VNL 2026 ▫ Bulgaria vs. Italia ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990705.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",06:00 ▫ Men's VNL 2026 ▫ Serbia vs. Japón ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990706.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",06:00 ▫ Men's VNL 2026 ▫ Ucrania vs. Brasil ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990707.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",09:30 ▫ Men's VNL 2026 ▫ Argentina vs. Alemania ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990708.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",10:00 ▫ Men's VNL 2026 ▫ Cuba vs. Estados Unidos ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990709.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",13:00 ▫ Men's VNL 2026 ▫ Polonia vs. Bélgica ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990710.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",13:30 ▫ Men's VNL 2026 ▫ Eslovenia vs. Canadá ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990711.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",13:30 ▫ Men's VNL 2026 ▫ Francia vs. Irán ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990712.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",04:00 ▫ Bad Homburg Open ▫ Segunda Ronda ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990713.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",04:00 ▫ Bad Homburg Open ▫ Court 1 ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990714.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",05:00 ▫ Lexus Eastbourne Open ▫ Court 5 (Doubles Quarterfinals) ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990715.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",06:00 ▫ Lexus Eastbourne Open ▫ Court 4 ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990716.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",08:30 ▫ Lexus Eastbourne Open ▫ Court 1 ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990717.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",04:00 ▫ Lexus Eastbourne Open ▫ Court 1 ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990718.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",08:30 ▫ Lexus Eastbourne Open ▫ Segunda Ronda ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990719.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",05:30 ▫ Mallorca Championships ▫ Segunda Ronda ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990720.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",05:00 ▫ Wimbledon Qualifying ▫ Segunda Ronda ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990721.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",02:00 ▫ Premier Padel ▫ Valladolid - Secondary Court (Primera Ronda) ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990722.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",02:00 ▫ Premier Padel ▫ Valladolid - Centre Court (Primera Ronda) ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990723.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",10:00 ▫ Premier Padel ▫ Valladolid - Secondary Court (Primera Ronda) ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990724.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",10:00 ▫ Premier Padel ▫ Valladolid - Centre Court (Primera Ronda) ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990725.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YMn1H1Z/Imagen-de-Whats-App-2025-11-02-a-las-04-32-50-e63aa60b.jpg" group-title="🏆 EVENTOS PRIME 3 | MIE 24.06.26",19:00 ▫ NBA Draft (En español) ▫ 2026 NBA Draft ▫ HD ▫
+http://liontv.es:8080/live/cramirez/cramirez/1990726.ts
