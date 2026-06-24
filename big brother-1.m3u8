@@ -1,11 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="⭐ GRAN HERMANO",[GH] Gran Hermano - 24 hs
-http://liontv.es:8080/live/cramirez/cramirez/1628370.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="⭐ GRAN HERMANO",[GH] Gran Hermano - Cámara 1
-http://liontv.es:8080/live/cramirez/cramirez/1628369.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="⭐ GRAN HERMANO",[GH] Gran Hermano - Cámara 2
-http://liontv.es:8080/live/cramirez/cramirez/1628368.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="⭐ GRAN HERMANO",[GH] Gran Hermano - Cámara 3
-http://liontv.es:8080/live/cramirez/cramirez/1628367.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="⭐ GRAN HERMANO",[GH] Gran Hermano - Experiencia Multicámara
-http://liontv.es:8080/live/cramirez/cramirez/1628366.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS AR
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69547.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS 2 AR
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69549.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS CH
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69552.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS EC
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69557.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QDKfDMG/ds.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS PLUS EC
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69559.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS CO
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69567.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS 2 CO
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69568.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV SPORTS URU
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/69570.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV SPORTS AR-CO-EC-PE-CH-UR-",DIRECTV Sports Per
+http://avefenixtv.com:8080/live/2carlosdidier/pursGmR2hM/151274.ts
