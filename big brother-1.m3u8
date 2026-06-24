@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="⭐ GRAN HERMANO",[GH] Gran Hermano - 24 hs
+http://liontv.es:8080/live/cramirez/cramirez/1628370.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="⭐ GRAN HERMANO",[GH] Gran Hermano - Cámara 1
+http://liontv.es:8080/live/cramirez/cramirez/1628369.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="⭐ GRAN HERMANO",[GH] Gran Hermano - Cámara 2
+http://liontv.es:8080/live/cramirez/cramirez/1628368.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="⭐ GRAN HERMANO",[GH] Gran Hermano - Cámara 3
+http://liontv.es:8080/live/cramirez/cramirez/1628367.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNG30u0dBxGNure5iO1FTR-bnTAFQr9MXiw&s" group-title="⭐ GRAN HERMANO",[GH] Gran Hermano - Experiencia Multicámara
+http://liontv.es:8080/live/cramirez/cramirez/1628366.m3u8
